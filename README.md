@@ -3,13 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:162447&height=200&section=header&text=Risav%20Pokhrel&fontSize=52&fontColor=00d4ff&fontAlignY=38" width="100%"/>
 
-<!-- Typing Animation -->
-<!-- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Institute+of+Engineering%2C+Pulchowk+Campus" alt="Typing SVG" />
-</a> -->
-
-<!-- <br/><br/> -->
-
 <!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Risav25Pokhrel&color=00d4ff&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/Risav25Pokhrel?style=flat-square&color=00d4ff&label=Followers)](https://github.com/Risav25Pokhrel)
@@ -20,7 +13,7 @@
 
 ## 🧑‍🔬 About Me
 
-Electronics & Information Technology Engineer with hands-on research experience in Superconducting Circuit Design, and Quantum Optimization. Conducted supervised research under Dr. Pawel Gora†, Dr. Gal Winer†, and Shantanu Jha (MIT)†. Hackathon winner†, Womanium Superconducting Quantum Circuit Design 2024. Seeking graduate study to deepen theoretical and experimental foundations in quantum technologies
+Electronics & Information Technology Engineer with hands-on research experience in Superconducting Circuit Design, and Quantum Optimization. Conducted supervised research under [Dr. Pawel Gora](https://scholar.google.com/citations?user=GbZr2MQAAAAJ&hl=pl), [Dr. Gal Winer](https://scholar.google.co.il/citations?hl=en&user=LiMlypIAAAAJ&view_op=list_works), and [Shantanu Jha (MIT)](https://shanjha.com). [Hackathon winner](https://drive.google.com/file/d/1fu4IvZ26CtWwN8i-ptGv8HpNtc88jTXX/view?usp=sharing), Womanium Superconducting Quantum Circuit Design 2024. Seeking graduate study to deepen theoretical and experimental foundations in quantum technologies
 ```
 🎓  Education             →  B.E. Electronics, Communication & Information Engineering · Pulchowk Campus, TU
 🏆  Recent recognition    →  Honorable Mention · Future Leaders in Quantum Hackathon 2025 (ITU/IonQ)
@@ -34,7 +27,6 @@ Electronics & Information Technology Engineer with hands-on research experience 
 | Award | Event | Year |
 |-------|-------|------|
 | 🥇 **Hackathon Winner — 1st Place out of 200+ Teams** | Superconducting Quantum Circuit Design · Womanium 2024 | 2024 |
-| 🏅 **Honorable Mention, Quantum Hackathon** | Quantum Coalition 2025 | 2025 |
 | 🏅 **Honorable Mention, Future Leaders in Quantum Hackathon** | Education Track · ITU & IonQ, Geneva | 2025 |
 | ✍️ **QTypo Co-Winner** | QClass 23/24 · QWorld | 2024 |
 | 🎖️ **3rd Team Award** | QIntern-2025 | 2025 |
@@ -149,20 +141,6 @@ Quantum simulation of Young's Double Slit Experiment using Hadamard and phase ga
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Risav25Pokhrel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff&ring_color=00d4ff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risav25Pokhrel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0c4ff&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Risav25Pokhrel&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
-</div>
-
----
 
 ## 🎓 Education & Programs
 
@@ -172,19 +150,3 @@ Quantum simulation of Young's Double Slit Experiment using Hadamard and phase ga
 - 🧑‍💻 **QxQ (Qubit by Qubit)** — Introduction to Quantum Computing, 2023/24
 
 ---
-
-## 🤝 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Risav25Pokhrel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Risav25Pokhrel)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:162447,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
-
-*"If you think you understand quantum mechanics, you don't understand quantum mechanics." — Richard Feynman*
-</div>
