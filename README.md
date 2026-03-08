@@ -119,25 +119,38 @@ Quantum simulation of Young's Double Slit Experiment using Hadamard and phase ga
 
 <div align="center">
 
-**Quantum Frameworks**
+**Quantum SDKs**
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![Qiskit Metal](https://img.shields.io/badge/Qiskit%20Metal-1a1a2e?style=for-the-badge&logo=qiskit&logoColor=00d4ff)
-![D-Wave](https://img.shields.io/badge/D--Wave%20Ocean-00aaff?style=for-the-badge&logoColor=white)
-![Classiq](https://img.shields.io/badge/Classiq-162447?style=for-the-badge&logoColor=00d4ff)
+![Cirq](https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-00d4ff?style=for-the-badge&logoColor=black)
+![QuTiP](https://img.shields.io/badge/QuTiP-1a1a2e?style=for-the-badge&logoColor=white)
 
-**Simulation & Analysis**
+**General**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Scientific Computing**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-rf](https://img.shields.io/badge/scikit--rf-F7931E?style=for-the-badge&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logoColor=white)
 
-**Hardware EDA**
+**Hardware & EDA Tools**
 
-![HFSS](https://img.shields.io/badge/Ansys%20HFSS-FFB71B?style=for-the-badge&logoColor=black)
+![HFSS](https://img.shields.io/badge/Ansys%20HFSS%20%26%20Q3D-FFB71B?style=for-the-badge&logoColor=black)
+![Keysight ADS](https://img.shields.io/badge/Keysight%20ADS-00adef?style=for-the-badge&logoColor=white)
+![KLayout](https://img.shields.io/badge/KLayout-2c2c2c?style=for-the-badge&logoColor=white)
+![Qiskit Metal](https://img.shields.io/badge/Qiskit%20Metal-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![pyEPR](https://img.shields.io/badge/pyEPR-00d4ff?style=for-the-badge&logoColor=black)
-![QuTiP](https://img.shields.io/badge/QuTiP-1a1a2e?style=for-the-badge&logoColor=white)
 
 </div>
 
