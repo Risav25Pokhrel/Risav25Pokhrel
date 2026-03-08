@@ -1,12 +1,6 @@
 <div align="center">
-
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:162447&height=200&section=header&text=Risav%20Pokhrel&fontSize=52&fontColor=00d4ff&fontAlignY=38" width="100%"/>
-
-<!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Risav25Pokhrel&color=00d4ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Risav25Pokhrel?style=flat-square&color=00d4ff&label=Followers)](https://github.com/Risav25Pokhrel)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:162447&height=150&section=header&text=Risav%20Pokhrel&fontSize=52&fontColor=00d4ff&fontAlignY=38" width="100%"/>
 </div>
 
 ---
