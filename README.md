@@ -147,13 +147,3 @@ Quantum simulation of Young's Double Slit Experiment using Hadamard and phase ga
 ![pyEPR](https://img.shields.io/badge/pyEPR-00d4ff?style=for-the-badge&logoColor=black)
 
 </div>
-
-
-## 🎓 Education & Programs
-
-- 🎓 **B.E. in Electronics, Communication & Information Engineering** — Institute of Engineering, Pulchowk Campus, Tribhuvan University, Nepal
-- 🌐 **Graduate Quantum Course** — University of Latvia · Classiq & QWorld (2024)
-- ⚛️ **QIntern25** — Quantum Computing Internship Program (2025)
-- 🧑‍💻 **QxQ (Qubit by Qubit)** — Introduction to Quantum Computing, 2023/24
-
----
